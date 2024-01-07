@@ -8,7 +8,7 @@ This project will include the test suite and test plans/cases that have been wri
 - Functionality
 - Ease of Use
 
-##Steps to install Node
+## Steps to install Node
 
 ## Prerequisites
 
