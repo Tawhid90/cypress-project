@@ -35,7 +35,7 @@ Follow these steps to install Node.js on your machine:
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 ## Verify Installation
-node -v
-npm -v
+- node -v
+- npm -v
 
   
